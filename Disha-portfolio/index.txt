@@ -1,0 +1,90 @@
+Disha - I'm Software Developer.
+
+This is a personal portfolio html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = Disha home
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+About
+Projects
+
+Contact
+
+dishagawade692@email.com
+7447416575
+
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+aria-label = open menu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+alt = Disha
+
+alt = 250+ Projects Done
+
+I'm Software Developer.
+
+Hello! I design and create software solutions to meet user needs and solve real-world problems. 
+                My work involves writing efficient and scalable code using programming languages like Python, 
+                Java, or C++, followed by rigorous testing and debugging to ensure reliability. 
+                I collaborate with designers, engineers, and stakeholders to integrate features and enhance user experiences. 
+                Additionally, I maintain and update software by optimizing performance, adding new functionalities, and adapting to evolving requirements.
+                 By staying updated with the latest technologies and trends, I continuously innovate and deliver modern, impactful solutions. My role is centered on ensuring software is functional,
+                  user-friendly, and adds value to businesses or individuals.
+See My Works
+Contact Me
+
+
+
+#---------- ABOUT ----------#
+
+What I Do?
+
+I design and create software solutions to meet user needs and solve real-world problems. 
+                My work involves writing efficient and scalable code using programming languages like Python, 
+                Java, or C++, followed by rigorous testing and debugging to ensure reliability. 
+                I collaborate with designers, engineers, and stakeholders to integrate features and enhance user experiences. 
+                Additionally, I maintain and update software by optimizing performance, adding new functionalities, and adapting to evolving requirements.
+                 By staying updated with the latest technologies and trends, I continuously innovate and deliver modern, impactful solutions. My role is centered on ensuring software is functional,
+                  user-friendly, and adds value to businesses or individuals.
+
+#---------- CONTACT ----------#
+
+alt = envelop icon
+
+If you like what you see, let's work together.
+
+
+Name *
+
+Email *
+
+Message *
+
+Send message
+
+
+
+#---------- FOOTER ----------#
+
+© 2022 codewithsadee. All rights reserved.
+
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-dribbble"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
